@@ -359,7 +359,7 @@ html {
 
 /* Add uniform space before next section */
 section+section {
-  margin-top: 10px;
+  margin-top: 80px;
 }
 
 
@@ -491,7 +491,6 @@ section+section {
 .services-modern {
   background: rgba(2, 5, 9, 0.95);
   border-top: 1px solid rgba(255, 255, 255, 0.06);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
   position: relative;
   overflow: hidden;
 }
@@ -604,7 +603,6 @@ section+section {
 /* --- TECH / STACK --- */
 .tech-modern {
   background: rgba(2, 5, 9, 0.95);
-  border-top: 1px solid rgba(255, 255, 255, 0.06);
   border-bottom: 1px solid rgba(255, 255, 255, 0.06);
 }
 
